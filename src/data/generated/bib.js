@@ -14,6 +14,21 @@
         "volume": "19",
         "year": "2024"
     },
+    "Alim2023WearableSensors": {
+        "author": "Alim, A. and Imtiaz, M. H.",
+        "doi": "10.3390/s23052411",
+        "journal": "Sensors",
+        "keywords": "type:AI Health Monitoring, wearable sensors, maternal health, remote monitoring, pregnancy",
+        "number": "5",
+        "pages": "2411",
+        "publisher": "MDPI",
+        "series": "Journal",
+        "title": "Wearable Sensors for the Monitoring of Maternal Health\u2014A Systematic Review",
+        "type": "article",
+        "url": "https://doi.org/10.3390/s23052411",
+        "volume": "23",
+        "year": "2023"
+    },
     "Bartal2024PTSDChildbirth": {
         "author": "Bartal, Alon and Jagodnik, Kathleen M. and Chan, Sabrina J. and Dekel, Sharon",
         "doi": "10.1038/s41598-024-54242-2",
@@ -186,20 +201,5 @@
         "type": "article",
         "url": "https://doi.org/10.1002/14651858.CD003519.pub4",
         "year": "2016"
-    },
-    "Silva2024AIWomenChildHealth": {
-        "author": "Silva, R. A. and Oliveira, M. L. and Santos, F. J.",
-        "doi": "10.1002/hsr2.120",
-        "journal": "Health Science Reports",
-        "keywords": "type:AI Health Monitoring, maternal health, risk prediction, pregnancy monitoring",
-        "number": "2",
-        "pages": "1-11",
-        "publisher": "Wiley",
-        "series": "Journal",
-        "title": "Artificial Intelligence for Women and Child Healthcare: Is AI Able to Enhance Maternal Health Services?",
-        "type": "article",
-        "url": "https://doi.org/10.1002/hsr2.120",
-        "volume": "7",
-        "year": "2024"
     }
 }});
